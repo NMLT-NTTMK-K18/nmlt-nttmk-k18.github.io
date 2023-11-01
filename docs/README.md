@@ -1,6 +1,15 @@
-<a href="https://nmlt-nttmk-k18.github.io/">
-	<h1 align="center">😨 NMLT - NTTMK - K18 😵‍💫</h1>
-</a>
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>NMLT - NTTMK - K18</title>
+	<link
+		rel="icon"
+		href="https://cdn.jsdelivr.net/gh/NMLT-NTTMK-K18/Utilities@main/img/avatar/20220825p1_cat_freepik.svg?"
+		type="image/svg+xml"
+	/>
+</head>
+
+<h1 align="center"><a href="https://nmlt-nttmk-k18.github.io/">😨 NMLT - NTTMK - K18 😵‍💫</a></h1>
 
 <div align="center">
 	<a href="https://nmlt-nttmk-k18.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=4000&pause=800&color=FDFFB6&background=222436&center=true&vCenter=true&random=true&width=500&lines=UIT;NH%E1%BA%ACP+M%C3%94N+L%E1%BA%ACP+TR%C3%8CNH;NGUY%E1%BB%84N+T%E1%BA%A4N+TR%E1%BA%A6N+MINH+KHANG;1000+B%C3%80I+CODE+THI%E1%BA%BEU+NHI;NMLT+NTTMK+K18;TR%C6%AF%E1%BB%9CNG+%C4%90%E1%BA%A0I+H%E1%BB%8CC+C%C3%94NG+NGH%E1%BB%86+TH%C3%94NG+TIN" alt="Typing SVG" /></a>
@@ -29,7 +38,7 @@
 <h2 align="center">🧑‍🏫 LECTURERS 👨‍🏫</h2>
 
 <div align="center">
-	<table align="center">
+	<table style="margin-left: auto; margin-right: auto;">
 		<thead>
 			<tr>
 				<th><b>NAME</B></th>
@@ -66,7 +75,7 @@
 <h2 align="center">🧒 MEMBERS 🧒</h2>
 
 <div align="center">
-	<table align="center">
+	<table style="margin-left: auto; margin-right: auto;">
 		<thead>
 			<tr>
 				<th align="center"><b>STT</b></th>
@@ -115,7 +124,7 @@
 <h2 align="center">📁 REPOSITORIES 📂</h2>
 
 <div align="center">
-	<table align="center">
+	<table style="margin-left: auto; margin-right: auto;">
 		<thead>
 			<tr>
 				<th align="left"><b>REPO</b></th>
