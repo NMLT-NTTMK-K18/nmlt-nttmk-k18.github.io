@@ -4,7 +4,6 @@ plugins:
 title: NMLT - NTTMK - K18
 description: UIT - K18 - Nhập môn lập trình - Thầy Nguyễn Tấn Trần Minh Khang
 show_downloads: true
-favicon_url: https://cdn.jsdelivr.net/gh/NMLT-NTTMK-K18/Utilities@main/img/avatar/20220825p1_cat_freepik.svg
 
 # REPO DOWNLOAD LINK
 github_repo_link:
