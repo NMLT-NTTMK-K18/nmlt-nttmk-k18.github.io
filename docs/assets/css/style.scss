@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+// @import "{{ site.theme }}";
+@import 'jekyll-theme-cayman';
 .center-table {
     margin-left: auto;
     margin-right: auto;
