@@ -125,21 +125,21 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="../../../.github">.github</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/.github">.github</a></td>
 				<td>Là repo chứa cái nì nì 🤥</td>
 				<td></td>
 				<td></td>
 				<td></td>
 			</tr>
 			<tr>
-				<td><a href="../../../.nmlt-nttmk-k18.github.io">.nmlt-nttmk-k18.github.io</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/.nmlt-nttmk-k18.github.io">.nmlt-nttmk-k18.github.io</a></td>
 				<td>Repo Github Page cho Organisation</td>
 				<td></td>
 				<td></td>
 				<td></td>
 			</tr>
 			<tr>
-				<td><a href="../../../Utilities">Utilities</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/Utilities">Utilities</a></td>
 				<td>Tài nguyên thiết yếu <i>(rác)</i></td>
 				<td></td>
 				<td></td>
@@ -160,56 +160,56 @@
 				<td align="center">167</td>
 				</tr>
 			<tr>
-				<td><a href="../../../1-167-main-B-K">1-167-main-B-K</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/1-167-main-B-K">1-167-main-B-K</a></td>
 				<td>Hàm main <i>(Bình & Khiêm)</i></td>
 				<td align="center">1</td>
 				<td align="center">3</td>
 				<td align="center">167</td>
 			</tr>
 			<tr>
-				<td><a href="../../../2-167-func-B-K">2-167-func-B-K</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/2-167-func-B-K">2-167-func-B-K</a></td>
 				<td>Hàm <i>(Bình & Khiêm)</i></td>
 				<td align="center">2</td>
 				<td align="center">4</td>
 				<td align="center">167</td>
 			</tr>
 			<tr>
-				<td><a href="../../../2-167-func-H-N">2-167-func-H-N</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/2-167-func-H-N">2-167-func-H-N</a></td>
 				<td>Hàm<i>(Huy & Nguyễn)</i></td>
 				<td align="center">2</td>
 				<td align="center">4</td>
 				<td align="center">167</td>
 			</tr>
 			<tr>
-				<td><a href="../../../3-194-array">3-194-array</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/3-194-array">3-194-array</a></td>
 				<td>Mảng một chiều</td>
 				<td align="center">3</td>
 				<td align="center">5</td>
 				<td align="center">194</td>
 			</tr>
 			<tr>
-				<td><a href="../../../4-172-matrix">4-172-matrix</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/4-172-matrix">4-172-matrix</a></td>
 				<td>Mảng hai chiều</td>
 				<td align="center">4</td>
 				<td align="center">6</td>
 				<td align="center">172</td>
 			</tr>
 			<tr>
-				<td><a href="../../../5-258-struct">5-258-struct</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/5-258-struct">5-258-struct</a></td>
 				<td>Cấu trúc dữ liệu</td>
 				<td align="center">5</td>
 				<td align="center">7</td>
 				<td align="center">258</td>
 			</tr>
 			<tr>
-				<td><a href="../../../6-191-recursion">6-191-recursion</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/6-191-recursion">6-191-recursion</a></td>
 				<td>Đệ quy</td>
 				<td align="center">6</td>
 				<td align="center">8</td>
 				<td align="center">191</td>
 			</tr>
 			<tr>
-				<td><a href="../../../7-200-wecode">7-200-wecode</a></td>
+				<td><a href="https://github.com/NMLT-NTTMK-K18/7-200-wecode">7-200-wecode</a></td>
 				<td>WeCode</td>
 				<td align="center">7</td>
 				<td align="center">9</td>
