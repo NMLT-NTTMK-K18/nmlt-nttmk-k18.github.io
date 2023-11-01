@@ -7,10 +7,10 @@ show_downloads: true
 
 # REPO DOWNLOAD LINK
 github_repo_link:
-  1-167-main: https://github.com/NMLT-NTTMK-K18/1-167-main-B-K/archive/refs/heads/main.zip
-  2-167-func: https://github.com/NMLT-NTTMK-K18/2-167-func-B-K/releases/download/RAR/23520161_23520730_BT02.rar
-  3-194-array: https://github.com/NMLT-NTTMK-K18/3-194-array/releases/download/RAR/23520161_23520730_23520623_23521049_23521734_BT03.rar
-  4-172-matrix: https://github.com/NMLT-NTTMK-K18/4-172-matrix/releases/download/RAR/23520161_23520730_23520623_23521049_23521734_BT04.rar
-  5-258-struct: https://github.com/NMLT-NTTMK-K18/5-258-struct/releases/download/RAR/23520161_23520730_23520623_23521049_23521734_BT05.rar
-  6-191-recursion: https://github.com/NMLT-NTTMK-K18/6-191-recursion/releases/download/RAR/23520161_23520730_23520623_23521049_23521734_BT06.rar
-  7-200-wecode: https://github.com/NMLT-NTTMK-K18/7-200-wecode/archive/refs/heads/main.zip
+  1-167-main: https://github.com/NMLT-NTTMK-K18/1-167-main-B-K
+  2-167-func: https://github.com/NMLT-NTTMK-K18/2-167-func-B-K
+  3-194-array: https://github.com/NMLT-NTTMK-K18/3-194-array
+  4-172-matrix: https://github.com/NMLT-NTTMK-K18/4-172-matrix
+  5-258-struct: https://github.com/NMLT-NTTMK-K18/5-258-struct
+  6-191-recursion: https://github.com/NMLT-NTTMK-K18/6-191-recursion
+  7-200-wecode: https://github.com/NMLT-NTTMK-K18/7-200-wecode

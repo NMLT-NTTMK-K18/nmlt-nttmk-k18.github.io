@@ -2,7 +2,14 @@
 <html lang="{{ site.lang | default: "vi-VN" }}">
   <head>
     <meta charset="UTF-8">
-
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6W6MFYBZ2X"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-6W6MFYBZ2X');
+    </script>
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=JetBrains+Mono:400,700&display=swap" as="style" type="text/css" crossorigin>
@@ -13,7 +20,7 @@
     <link rel="stylesheet" href="../assets/css/my_style.css">
     <link
       rel="icon"
-      href="https://cdn.jsdelivr.net/gh/NMLT-NTTMK-K18/Utilities@main/img/avatar/20220825p1_cat_freepik.svg?"
+      href="https://cdn.jsdelivr.net/gh/NMLT-NTTMK-K18/Utilities@main/img/avatar/favicon_212x212_cat_freepik.png?"
       type="image/svg+xml"
     />
     <title>NMLT - NTTMK - K18</title>
@@ -29,13 +36,13 @@
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="{{ site.github_repo_link.1-167-main }}" class="btn">1-167-main</a>
-        <a href="{{ site.github_repo_link.2-167-func }}" class="btn">2-167-func</a>
-        <a href="{{ site.github_repo_link.3-194-array }}" class="btn">3-194-array</a>
-        <a href="{{ site.github_repo_link.4-172-matrix }}" class="btn">4-172-matrix</a>
-        <a href="{{ site.github_repo_link.5-258-struct }}" class="btn">5-258-struct</a>
-        <a href="{{ site.github_repo_link.6-191-recursion }}" class="btn">6-191-recursion</a>
-        <a href="{{ site.github_repo_link.7-200-wecode }}" class="btn">7-200-wecode</a>
+        <a href="{{ site.github_repo_link.1-167-main }}" class="btn">1 167 main</a>
+        <a href="{{ site.github_repo_link.2-167-func }}" class="btn">2 167 func</a>
+        <a href="{{ site.github_repo_link.3-194-array }}" class="btn">3 194 array</a>
+        <a href="{{ site.github_repo_link.4-172-matrix }}" class="btn">4 172 matrix</a>
+        <a href="{{ site.github_repo_link.5-258-struct }}" class="btn">5 258 struct</a>
+        <a href="{{ site.github_repo_link.6-191-recursion }}" class="btn">6 191 recursion</a>
+        <a href="{{ site.github_repo_link.7-200-wecode }}" class="btn">7 200 wecode</a>
       {% endif %}
     </header>
 
