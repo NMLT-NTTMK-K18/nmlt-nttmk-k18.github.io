@@ -10,12 +10,14 @@
 	</a>
 	<img src="https://img.shields.io/badge/kho%C3%A1-18-9bf6ff?style=for-the-badge" alt="Khoá - 18">
 	<img src="https://img.shields.io/badge/n%C4%83m_h%E1%BB%8Dc-2023-caffbf?style=for-the-badge" alt="Năm học - 2023">
-	<img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-fdffb6?style=for-the-badge" alt="Môn - Nhập môn lập trình">
-	<img src="https://img.shields.io/badge/ng%C3%B4n_ng%E1%BB%AF-C%2B%2B-ffd6a5?style=for-the-badge" alt="Ngôn ngữ - C++">
-	<img src="https://img.shields.io/badge/s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20b%C3%A0i%20t%E1%BA%ADp-1643-ffadad?style=for-the-badge" alt="Số lượng bài tập - 1643">
-	<img src="https://img.shields.io/badge/License-MIT-ffc6ff?style=for-the-badge" alt="LICENSE - MIT">
-	<img src="https://img.shields.io/badge/OS-Windows-bdb2ff?style=for-the-badge&logo=windows%2011" alt="OS - Windows">
-	<img src="https://img.shields.io/badge/EOL-CRLF-a0c4ff?style=for-the-badge" alt="End Of Line - Carriage Return Line Feed">
+	<img src="https://img.shields.io/badge/Ng%C3%A0nh-CS-fdffb6?style=for-the-badge" alt="Ngành - khoa học máy tính">
+	<img src="https://img.shields.io/badge/m%C3%B4n-nh%E1%BA%ADp_m%C3%B4n_l%E1%BA%ADp_tr%C3%ACnh-ffd6a5?style=for-the-badge" alt="Môn - Nhập môn lập trình">
+	<img src="https://img.shields.io/badge/ng%C3%B4n_ng%E1%BB%AF-C%2B%2B-ffadad?style=for-the-badge" alt="Ngôn ngữ - C++">
+	<img src="https://img.shields.io/badge/s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20b%C3%A0i%20t%E1%BA%ADp-1782-ffc6ff?style=for-the-badge" alt="Số lượng bài tập - 1643">
+	<img src="https://img.shields.io/badge/License-MIT-bdb2ff?style=for-the-badge" alt="LICENSE - MIT">
+	<img src="https://img.shields.io/badge/OS-Windows-a0c4ff?style=for-the-badge&logo=windows%2011" alt="OS - Windows">
+	<img src="https://img.shields.io/badge/EOL-CRLF-9bf6ff?style=for-the-badge" alt="End Of Line - Carriage Return Line Feed">
+	<img src="https://hits.sh/nmlt-nttmk-k18.github.io.svg?view=today-total&style=for-the-badge&label=hits&color=caffbf" alt="Hits counter">
 </div>
 
 ---
@@ -169,9 +171,9 @@
 				<td align="center"></td>
 				<td align="center">2</td>
 				<td align="center">167</td>
-				<td align="center">11/9/23</td>
+				<td align="center">18/9/23</td>
 				<td align="center">25/9/23</td>
-				<td align="center">14</td>
+				<td align="center">7</td>
 			</tr>
 			<tr>
 				<td><a href="https://github.com/NMLT-NTTMK-K18/1-167-main-B-K">1-167-main-B-K</a></td>
@@ -239,9 +241,9 @@
 				<td align="center">6</td>
 				<td align="center">8</td>
 				<td align="center">290</td>
-				<td align="center"></td>
-				<td align="center"></td>
-				<td align="center"></td>
+				<td align="center">13/11/23</td>
+				<td align="center">1/12/23</td>
+				<td align="center">18</td>
 			</tr>
 			<tr>
 				<td><a href="https://github.com/NMLT-NTTMK-K18/7-200-wecode">7-61-wecode</a></td>
