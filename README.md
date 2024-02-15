@@ -99,7 +99,7 @@
 			<tr>
 				<td align="center">5</td>
 				<td>Dương Thông Tuệ</td>
-				<td align="center"><code><a href="https://github.com/tueduong05">tueduong05</a></code></td>
+				<td align="center"><code><a href="https://github.com/tueduonggg1203">tueduonggg1203</a></code></td>
 				<td align="center"><code>23521734</code></td>
 			</tr>
 		</tbody>
@@ -270,20 +270,26 @@
 
 ---
 
-<h2 align="center">🔮 TECH 🔍</h2>
+<h2 align="center">🔮 TOOL, PLATFORM, LANG 🔍</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,cpp,py,md,bash,git,github,githubactions,visualstudio,vscode,regex&perline=6&theme=dark" />
   </a>
-  <br>
-  <img height="44px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
-  <img height="44px" src="https://imgbot.net/images/128x128_circle.png" alt="ImgBot" />
-  <img height="44px" src="https://avatars.githubusercontent.com/u/31419072" alt="Restyled.io Bot" />
-  <img height="44px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
-  <img height="44px" src="/img/codefactor-icon-svgrepo-com.svg" alt="CodeFactor" />
-  <img height="44px" src="/img/gitguardian_crop_1x1.png" alt="Gitguardian" />
-  <br>
-  <img height="44px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
-  <img height="44px" src="https://llvm.org/img/LLVMWyvernSmall.png" alt="Clang formater" />
 </p>
+
+---
+
+<h2 align="center">🤖 BOT, FORMAT 🔨</h2>
+
+<div align="center">
+    <img height="44px" src="https://avatars.githubusercontent.com/u/25180681?v=4" alt="Renovate Bot" />
+    <img height="44px" src="https://imgbot.net/images/128x128_circle.png" alt="ImgBot" />
+    <img height="44px" src="https://avatars.githubusercontent.com/u/31419072" alt="Restyled.io Bot" />
+    <img height="44px" src="/img/snyk-avatar-transparent.png" alt="Snyk" />
+    <img height="44px" src="/img/codefactor-icon-svgrepo-com.svg" alt="CodeFactor" />
+    <img height="44px" src="/img/gitguardian_crop_1x1.png" alt="Gitguardian" />
+    <br>
+    <img height="44px" src="/img/prettier-svgrepo-com.svg" alt="Prettier" />
+    <img height="44px" src="https://llvm.org/img/LLVMWyvernSmall.png" alt="Clang formater" />
+</div>
